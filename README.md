@@ -2,32 +2,35 @@
 <p align="center">
     <a href="https://git.io/J0hKr">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+Eva+Coded+By+Anirudh..."
+            src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+HAVOK+BOT+CODED+BY+HAVOK-SER..."
             alt="Typing SVG"
         />
     </a>
 </p>
 
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/fd4230902e75d397d8667.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="https://media.giphy.com/media/lOaMae4m2VkIesKlqi/giphy.gif" alt="GIF" width="128" height="128"/>
+
+</p>
+
   <p align="center">
-<a href="#"><img title="Eva" src="https://img.shields.io/badge/Eva-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Eva" src="https://img.shields.io/badge/havok-ser-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 
 
 <p align="center">
-<a href="https://wa.me/message/3UE3B6RT7XTLE1"><img title="Eva" src="https://img.shields.io/badge/Contact Eva-SudoAnirudh/Eva?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/message/6282202055"><img title="HAVOK-BOT" src="https://img.shields.io/badge/Contact havok10/havok-ser?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 
 
   <p align="center">
-<a href="https://wa.me/919539102851"><img title="Author" src="https://img.shields.io/badge/Author-SudoAnirudh/Eva?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/916282202055"><img title="Author" src="https://img.shields.io/badge/Author-havok10/havok-ser?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/SudoAnirudh">Anirudh</a> to make it public
+Project created by <a href="https://github.com/havok10">Anees</a> to make it public
     <br>
        | © |
         Reserved |
@@ -37,7 +40,7 @@ Project created by <a href="https://github.com/SudoAnirudh">Anirudh</a> to make 
 ----
 
   <p align="center">
-  <a href="https://github.com/SudoAnirudh/Eva">
+  <a href="https://github.com/havok10/CG_HAVOK">
     <img src="https://img.shields.io/github/repo-size/SudoAnirudh/Eva?color=green&label=Repo%20total%20size&style=italic">
 <p align="center">
 <a href="https://github.com/SudoAnirudh/followers"><img title="Followers" src="https://img.shields.io/github/followers/SudoAnirudh?color=red&style=flat-circle"></a>
@@ -54,7 +57,8 @@ Project created by <a href="https://github.com/SudoAnirudh">Anirudh</a> to make 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SudoAnirudh/Eva)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/havok10/CG_HAVOK
+    )
      </div>
 <br>
 <br >
@@ -65,7 +69,7 @@ bash <(curl -L https://t.ly/tHxh)
 
 ### The Hard Method
 ``` js
-$ git clone https://github.com/SudoAnirudh/Eva.git
+$ git clone https://github.com/havok10/CG_HAVOK.git
 $ cd Eva
 $ npm i @adiwajshing/baileys
 $ npm i chalk
