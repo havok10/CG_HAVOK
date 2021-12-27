@@ -1,30 +1,30 @@
 {
-  "name": "Eva",
+  "name": "havok",
   "version": "7.3.6",
-  "description": "Eva is the Modified Version of WhatsAsena.",
-  "main": "./Eva/bot.js",
+  "description": "havok-bot is the Modified Version of WhatsAsena.",
+  "main": "./havok-ser/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SudoAnirudh/Eva.git"
+    "url": "git+https://github.com/havok10/CG_HAVOK.git"
   },
   "keywords": [
     "whatsapp",
     "bot",
     "ai",
-    "Eva",
-    "Anirudh"
-    "SudoAnirudh"
+    "havok",
+    "havok-ser"
+    "anees"
   ],
-  "author": "Anirudh",
-  "developer": "@SudoAnirudh",
+  "author": "anees",
+  "developer": "@havok10",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/SudoAnirudh/Eva/issues"
+    "url": "https://github.com/havok10/CG_HAVOK/issues"
   },
-  "homepage": "https://github.com/SudoAnirudh/Eva#readme",
+  "homepage": "https://github.com/havok10/CG_HAVOK#readme",
   "dependencies": {
     "@adiwajshing/baileys": "3.4.1",
     "@lh2020/speedtest-net": "^2.1.1",
